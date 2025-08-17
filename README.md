@@ -28,7 +28,7 @@ Check out my portfolio at [fransiskus.site](https://fransiskus.site) 🚀
 
 ---
 
-> "Code like it's 1985, deploy like it's 2025!"  
+> "Bzz"  
 *Explore my work at [fransiskus.site](https://fransiskus.site) and let's build something colorful together!*
 
 <p align="center">

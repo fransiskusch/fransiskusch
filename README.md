@@ -2,16 +2,10 @@
 
 ![Retro Banner](https://img.shields.io/badge/Welcome_to_my_-Github-ff69b4.svg?style=flat-square)
 
-🌟 **Hello, World!** I'm Fransiskus, a passionate developer crafting digital experiences with a splash of retro flair! Inspired by neon lights, pixel art, and the vibrant 80s vibe, I build clean, functional, and creative solutions. Want to see my work? Visit my portfolio at [fransiskus.site](https://fransiskus.site) for a dose of pixelated nostalgia! 🚀
+🌟 **Hello, World!** I'm Fransiskus, I’m a dedicated software engineer with a strong interest in full-stack development. I enjoy turning ideas into functional, user-friendly web applications.
+Visit my portfolio at [fransiskus.site](https://fransiskus.site) 🚀
 
 ---
-
-## 🎮 About Me
-- 💻 **Full-Stack Developer** with a love for modern web tech and scalable backend systems.
-- 🎨 Obsessed with retro aesthetics—think VHS tapes, arcade games, and synthwave beats.
-- 🌍 Based in Indonesia, coding with a global mindset.
-- ⚡ Currently exploring **React**, **Vue/Nuxt**, and **AI-driven projects**.
-- 📫 Reach me at: [email@fransiskus.site](mailto:franskristiono@gmail.com) | [LinkedIn](https://linkedin.com/in/fransiskus) | [X](https://x.com/fransiskus)
 
 ---
 
@@ -48,5 +42,5 @@ Check out my full playlists on [Spotify](https://open.spotify.com/user/21m3ou4vn
 *Explore my work at [fransiskus.site](https://fransiskus.site) and let's build something colorful together!*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN0vXXv9T0Y/giphy.gif" width="200" alt="Retro Pixel Art">
+  <img src="https://media.giphy.com/media/LmN0vXXv9T0Y/giphy.gif" width="800" alt="Retro Pixel Art">
 </p>

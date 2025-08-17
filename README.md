@@ -28,13 +28,11 @@ Check out my portfolio at [fransiskus.site](https://fransiskus.site) 🚀
 
 ---
 
-
-## 🖼️ Retro Vibes
 > "Code like it's 1985, deploy like it's 2025!"  
 *Explore my work at [fransiskus.site](https://fransiskus.site) and let's build something colorful together!*
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxwMDJpaHA2bDBhcnRlMzlnNWlrd2s2b2JpeTl3cGR5Y3AwN3hxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0jHuzhUAo7yGsM/giphy.gif" width="800" alt="Retro Pixel Art">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxwMDJpaHA2bDBhcnRlMzlnNWlrd2s2b2JpeTl3cGR5Y3AwN3hxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0jHuzhUAo7yGsM/giphy.gif" width="600" alt="Retro Pixel Art">
 </p>
 
 ---

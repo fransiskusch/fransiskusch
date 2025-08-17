@@ -11,7 +11,7 @@
 - 🎨 Obsessed with retro aesthetics—think VHS tapes, arcade games, and synthwave beats.
 - 🌍 Based in Indonesia, coding with a global mindset.
 - ⚡ Currently exploring **React**, **Node.js**, and **AI-driven projects**.
-- 📫 Reach me at: [email@fransiskus.site](mailto:email@fransiskus.site) | [LinkedIn](https://linkedin.com/in/fransiskus) | [X](https://x.com/fransiskus)
+- 📫 Reach me at: [email@fransiskus.site](mailto:franskristiono@gmail.com) | [LinkedIn](https://linkedin.com/in/fransiskus) | [X](https://x.com/fransiskus)
 
 ---
 
@@ -24,10 +24,10 @@
 ## 🎧 Now Playing
 Powered by Spotify API, here's what I'm vibing to:
 
-[![Spotify Now Playing](https://spotify-now-playing-api.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-user-id)
+[![Spotify Now Playing](https://spotify-now-playing-api.vercel.app/api/spotify)](https://open.spotify.com/user/21m3ou4vnppbt4ag5enzanpeq)
 
 *Synthwave beats keep my coding flow alive!* 🎵  
-Check out my full playlists on [Spotify](https://open.spotify.com/user/your-spotify-user-id)!
+Check out my full playlists on [Spotify](https://open.spotify.com/user/21m3ou4vnppbt4ag5enzanpeq)!
 
 ---
 

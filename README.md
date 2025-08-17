@@ -2,28 +2,31 @@
 
 ![Retro Banner](https://img.shields.io/badge/Welcome_to_my_-Github-ff69b4.svg?style=flat-square)
 
-🌟 **Hello, World!** I'm Fransiskus, I’m a dedicated software engineer with a strong interest in full-stack development. I enjoy turning ideas into functional, user-friendly web applications.
-Visit my portfolio at [fransiskus.site](https://fransiskus.site) 🚀
+Hello! I'm **Fransiskus**, a dedicated **Full-Stack Developer** with strong experience in building modern, scalable, and user-friendly web applications.  
+I specialize in both **frontend and backend development**, and I’m passionate about turning ideas into functional solutions.  
+Check out my portfolio at [fransiskus.site](https://fransiskus.site) 🚀  
 
 ---
 
----
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx" />
+</p>
 
-## 🕹️ Tech Stack
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)  
-![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)  
+---
 
 
 ## 🖼️ Retro Vibes
@@ -33,3 +36,10 @@ Visit my portfolio at [fransiskus.site](https://fransiskus.site) 🚀
 <p align="center">
   <img src="https://media.giphy.com/media/LmN0vXXv9T0Y/giphy.gif" width="800" alt="Retro Pixel Art">
 </p>
+
+---
+
+## 📫 Contact
+- Email: [franskristiono@gmail.com](mailto:franskristiono@gmail.com)  
+- LinkedIn: [linkedin.com/in/fransiskus](https://linkedin.com/in/fransiskus)  
+- X (Twitter): [x.com/fransiskus](https://x.com/fransiskus)  

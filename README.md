@@ -25,17 +25,6 @@ Visit my portfolio at [fransiskus.site](https://fransiskus.site) 🚀
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)  
 
----
-
-## 🎧 Now Playing
-Powered by Spotify API, here's what I'm vibing to:
-
-[![Spotify Now Playing](https://spotify-now-playing-api.vercel.app/api/spotify)](https://open.spotify.com/user/21m3ou4vnppbt4ag5enzanpeq)
-
-*Synthwave beats keep my coding flow alive!* 🎵  
-Check out my full playlists on [Spotify](https://open.spotify.com/user/21m3ou4vnppbt4ag5enzanpeq)!
-
----
 
 ## 🖼️ Retro Vibes
 > "Code like it's 1985, deploy like it's 2025!"  

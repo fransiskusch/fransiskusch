@@ -1,16 +1,27 @@
-## Hi there 👋
+# Frans Christiono
 
-<!--
-**fransiskusch/fransiskusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full-stack Web Developer  
+⚡ Focused on Laravel · Go · Next.js · IoT  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech
+`Go` · `Laravel` · `Next.js` · `Astro` · `Vue` · `Tailwind` · `PostgreSQL` · `Docker`
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=franschristiono&show_icons=false&hide_border=true&count_private=true&theme=transparent)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franschristiono&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## 🚀 Projects
+- **CashQuest** – Money management app with gamification (Go + Next.js)  
+- **PolicyPlan** – Insurance SaaS (Laravel + React)  
+- **Portfolio** – Built with Next.js + Tailwind + Framer Motion  
+
+---
+
+## 📬 Contact
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:youremail@gmail.com)

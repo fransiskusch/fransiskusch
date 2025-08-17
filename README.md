@@ -1,37 +1,15 @@
-# Frans Christiono
+# 💫 About Me:
+Coding<br>
 
-👨‍💻 Full-stack Web Developer  
-⚡ Focused on Laravel · Go · Next.js · IoT  
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fransiskusch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fransiskusch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fransiskusch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=fransiskusch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Tech
-`Go` · `Laravel` · `Next.js` · `Astro` · `Vue` · `Tailwind` · `PostgreSQL` · `Docker`
-
----
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=franschristiono&show_icons=false&hide_border=true&count_private=true&theme=transparent)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franschristiono&layout=compact&hide_border=true&theme=transparent)
-
----
-
-## 🚀 Projects
-
-- **PolicyPlan** – Insurance SaaS (Laravel + React)  
-- **Portfolio** – Built with Next.js + Tailwind + Framer Motion  
-
----
-
-## 📬 Contact
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:youremail@gmail.com)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

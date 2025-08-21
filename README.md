@@ -39,5 +39,4 @@ Check out my portfolio at [fransiskus.site](https://fransiskus.site) 🚀
 
 ## 📫 Contact
 - Email: [franskristiono@gmail.com](mailto:franskristiono@gmail.com)  
-- LinkedIn: [linkedin.com/in/fransiskus](https://linkedin.com/in/fransiskus)  
-- X (Twitter): [x.com/fransiskus](https://x.com/fransiskus)  
+- LinkedIn: [linkedin.com/in/fransiskus](https://linkedin.com/in/fransiskus-hadiyanto-christiono)

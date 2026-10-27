@@ -4,7 +4,7 @@
 
 Hello! I'm **Fransiskus**, a dedicated **Full-Stack Developer** with strong experience in building modern, scalable, and user-friendly web applications.  
 I specialize in both **frontend and backend development**, and I’m passionate about turning ideas into functional solutions.  
-Check out my portfolio at [fransiskus.site](https://fransiskus.site) 🚀  
+Check out my portfolio at [fransiskus.site](https://fransiskus.tech) 🚀  
 
 ---
 
